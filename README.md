@@ -1,5 +1,5 @@
 # bitcoin-price
-Aplicativo para consultar o preço atual de um Bitcoin em diversos câmbios.
+Aplicativo para consultar o preço atual de um Bitcoin em diversas moedas.
 
 Criei esse aplicativo para consolidar o conhecimento adquirido em:
 
